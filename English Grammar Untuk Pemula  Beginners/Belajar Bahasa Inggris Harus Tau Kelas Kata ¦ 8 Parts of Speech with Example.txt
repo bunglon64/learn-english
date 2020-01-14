@@ -1,0 +1,128 @@
+Part of speech (kinds of world).
+Adalah bagian-bagian yang digunakan untuk membentuk suatu kalimat dalam bahasa inggris.
+
+Contoh:
+My friends came to jakarta yesterday.
+
+Kalimat diatas dibentuk dengan part of speech:
+    My -> Pronoun
+    firends -> Noun
+    came -> Verb
+    to -> Preposition
+    jakarta -> Noun
+    yesterday -> Adverb
+
+Jadi part of speech adalah nyawa untuk membentuk suatu kalimat.
+Ibarat membuat bangunan, part of speech adalah batu, pasir, batako dan lainnya yang bersatu menjadi bangunan.
+
+
+---------- Ada 8 parts of speech ----------
+- Verb
+- Noun
+- Pronoun
+- Adjective
+- Adverb
+- Conjunction
+- Preposition
+- Interjection
+
+
+---------- Penggunaanya ----------
+1. Verb (Kata Kerja)
+Kata yang menyatakan suatu aktifitas atau kondisi.
+
+Berdasarkan fungsinya dalam kalimat, verb dibagi menjadi 2:
+    - kata kerja bantu
+    - kata kerja utama
+
+Kata kerja ada banyak sekali, contohnya:
+    - Kata kerja bantu: Be, Have, Do, Will, Can, ...
+    - Kata kerja utama: Study, Speak, Love, ...
+
+Contoh dalam kalimat:
+    - They are (studying) english.
+    - He (can) play football.
+    - Joe and mushin (speak) english well.
+
+
+2. Noun (Benda)
+Kata benda adalah kata yang digunakan untuk menamai suatu benda baik abstrak maupun kongkrit.
+
+    - Abstrak -> benda yang tidak bisa dirasakan oleh indra manusia.
+        Contohnya: happines, love, gas, air, dll.
+    - Kongkrit -> benda yang dapat dirasakan oleh indra manusia.
+        Contohnya: table, book, chair, boy, dll.
+
+Contoh dalam kalimat:
+    - I buy a (coffe).
+    - She is beautiful (girl).
+    - They have much (money) today.
+
+3. Pronoun (Kata Ganti)
+Kata yang digunakan untuk menggantikan benda.
+
+Contohnya:
+I, you, we, they, it, he, she, her, him, them, me, us, your, their, our, my, etc.
+
+Contoh dalam kalimat:
+    - I love (her).
+    - My friends send (me) a coffe.
+    - This is (our) class.
+    - (He) kicks the ball.
+
+4. Adjective (Kata Sifat)
+Kata yang digunakan untuk menerangkan noun atau pronoun yang dapat berupa orang, tempat, binatang, benda(kongkrit / abstrak).
+
+Contohnya:
+beautiful, lazy, smart, sleepy, late, tired, delicious, tall, short, white, busy, red, etc.
+
+Contoh dalam kalimat:
+    - I was so (busy) last night.
+    - I love (smart) girl.
+    - She is (angry) with me.
+    
+5. Adverb (Kata Keterangan)
+Kata yang berfungsi menerangkan kata kerja (verb), kata sifat (adjective), atau kata keterangan lainnya.
+
+Contohnya: 
+always, often, very, quickly, beautifully, completely, well, enought, really, now, today, yesterday, likely, maybe, probably, etc.
+
+Contoh dalam kalimat:
+    - They (often) wear flat shoes.
+    - The room was good (enough) for me.
+    - I (compeletely) agree with you.
+    - She speaks (really) fast.
+
+
+6. Conjunction (Kata Sambung)
+Kata  / kelompok kata yang berfungsi menghubungkan antar kata, frasa, klausa, atau antar paragraf.
+
+Contohnya: 
+and, but, or, so, while, when, where, after, because, altought, etc.
+
+Contoh dalam kalimat:
+    - Budi plays music well, (but) he can't sing.
+    - I will pick up (after) I finish my job.
+    - Nobody knows (where) she lives now.
+
+
+7. Preposition (Kata Depan)
+Ada banyak kata depan diantaranya:
+of, to, from, in, on, with, behind, because of, in spirit of, despite, in front of, etc.
+
+Contoh dalam kalimat:
+    - She comes (from) Indonesia.
+    - My house is in (front) of Joe's house.
+    - Put it (on) the table, please!.
+
+
+8. Interjection (Kata Seru)
+Kata pendek yang diucapkan untuk mengekspresikan sesuatu seperti emosi, kagum, kecewa, dll.
+
+Contoh:
+wow!, ach!, pardon!, sorry!, excellent!, wonderfull!, amazing!, good!, well!, oh my good!, etc.
+
+Contoh dalam kalimat:
+    - Oh my good! Are you okay?
+    - Aww! It hurts!
+    - Sorry! I didn't hear you.
